@@ -1,1 +1,1 @@
-{"version":"1.82","notas":"Las partidas en línea aguantan mejor los cortes de conexión.","archivo":"juego/1.82/index.html","sha256":"8ec96af35814923818c4a7d6bbf82221736d930ab87a0e9357a2f302314b5332","minimoExe":"1.0.0"}
+{"version":"1.83","notas":"Si se corta una partida en línea, ahora muestra el motivo.","archivo":"juego/1.83/index.html","sha256":"a4f6e2fe23237a79c5911486debbb2c8cfb543601030e9bae0746285172b0d05","minimoExe":"1.0.0"}
