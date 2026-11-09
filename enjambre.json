@@ -1,1 +1,1 @@
-{"version": "2.64", "notas": "Arreglado: al hacer zoom ya no desaparecen plantas y cristales. Los edificios tienen detalles nuevos: luz de borde, piedritas y briznas al pie, y motas de luz.", "archivo": "juego/2.64/index.html", "sha256": "8805a59aff3f0415f8065624ad8413ef68bc91de2e472b37a8c7fc524b6e9033", "minimoExe": "1.0.0"}
+{"version": "2.65", "notas": "Ahora se puede borrar cualquier perfil de jugador, incluido el primero.", "archivo": "juego/2.65/index.html", "sha256": "ea2191732244211f3b387395f35528cafce6621677b32a59e60022fcfae04d5e", "minimoExe": "1.0.0"}
